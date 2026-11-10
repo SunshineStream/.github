@@ -4,7 +4,7 @@
     alt="Sunshine icon"
     width="256"
   />
-  <h1 align="center">SunshineStream</h1>
+  <h1 align="center">Sunshine Stream</h1>
   <h4 align="center">Self-hosted game streaming and community projects.</h4>
 </div>
 
