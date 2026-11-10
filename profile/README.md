@@ -1,25 +1,53 @@
-# SunshineStream
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/SunshineStream/Sunshine/refs/heads/master/sunshine.svg"
+    alt="Sunshine icon"
+    width="256"
+  />
+  <h1 align="center">SunshineStream</h1>
+  <h4 align="center">Self-hosted game streaming and community projects.</h4>
+</div>
 
-SunshineStream is the planned GitHub home for **Sunshine** and its community resources.
-Sunshine is LizardByte's self-hosted game stream host for Moonlight.
+SunshineStream is the GitHub home for **Sunshine**, LizardByte's self-hosted game stream host for Moonlight,
+and its related clients and community resources.
 It is a project organization under [LizardByte](https://github.com/LizardByte), with the same shared community.
 
-## Coming to this organization
+## Projects
 
-These repositories will move here once migration preparations are complete:
+| Repository                                                             | Purpose                                                 | Status         |
+| ---------------------------------------------------------------------- | ------------------------------------------------------- | -------------- |
+| [Sunshine](https://github.com/SunshineStream/Sunshine)                 | Self-hosted game stream host for Moonlight              | Active         |
+| [awesome-sunshine](https://github.com/SunshineStream/awesome-sunshine) | Sunshine tools, scripts, guides, and companion software | Active         |
+| [Moonlight-XboxOG](https://github.com/SunshineStream/Moonlight-XboxOG) | Moonlight client for the original Xbox                  | Active         |
+| [One](https://github.com/SunshineStream/One)                           | Client project in early development                     | In development |
 
-- [Sunshine](https://github.com/LizardByte/Sunshine), from `LizardByte/Sunshine` to `SunshineStream/Sunshine`.
-- [awesome-sunshine](https://github.com/LizardByte/awesome-sunshine), the collection of Sunshine tools, scripts,
-  guides, and companion software, from `LizardByte/awesome-sunshine` to `SunshineStream/awesome-sunshine`.
+## Get started
 
-Until each transfer is complete, use its current repository for development, issues, downloads, and releases.
+- [Sunshine website](https://sunshine.lizardbyte.dev/)
+- [Download Sunshine](https://github.com/SunshineStream/Sunshine/releases/latest)
+- [Sunshine documentation](https://docs.lizardbyte.dev/projects/sunshine/latest/)
+- [Explore awesome-sunshine](https://github.com/SunshineStream/awesome-sunshine)
+- [Moonlight-XboxOG documentation](https://docs.lizardbyte.dev/projects/moonlight-xboxog/latest/)
 
-The planned project website is `sunshine.lizardbyte.dev`. The website transition and repository transfer
-will happen in stages, with project links updated as each step is ready.
+---
 
-## Stay connected
-
-- [Current Sunshine repository and releases](https://github.com/LizardByte/Sunshine)
-- [Current awesome-sunshine collection](https://github.com/LizardByte/awesome-sunshine)
-- [LizardByte website](https://app.lizardbyte.dev/)
-- [Support and community](https://app.lizardbyte.dev/support)
+<div align="center">
+  <p>
+    A&nbsp;
+    <sup><a href="https://app.lizardbyte.dev/"><img
+        src="https://raw.githubusercontent.com/LizardByte/.github/refs/heads/master/branding/logos/logo-wordmark-horizontal.svg"
+        alt="LizardByte"
+        width="132"
+        height="32"
+        align="middle"
+    /></a></sup>
+    &nbsp;project
+  </p>
+  <p>
+    <sub>
+      <a href="https://app.lizardbyte.dev/">Explore Projects</a>
+      &nbsp;·&nbsp;
+      <a href="https://app.lizardbyte.dev/support">Get Support</a>
+    </sub>
+  </p>
+</div>
