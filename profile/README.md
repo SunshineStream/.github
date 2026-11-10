@@ -18,7 +18,7 @@ It is a project organization under [LizardByte](https://github.com/LizardByte), 
 | ---------------------------------------------------------------------- | ------------------------------------------------------- | -------------- |
 | [Sunshine](https://github.com/SunshineStream/Sunshine)                 | Self-hosted game stream host for Moonlight              | Active         |
 | [awesome-sunshine](https://github.com/SunshineStream/awesome-sunshine) | Sunshine tools, scripts, guides, and companion software | Active         |
-| [Moonlight-XboxOG](https://github.com/SunshineStream/Moonlight-XboxOG) | Moonlight client for the original Xbox                  | Active         |
+| [Moonlight-XboxOG](https://github.com/SunshineStream/Moonlight-XboxOG) | Moonlight client for the original Xbox                  | In development |
 | [One](https://github.com/SunshineStream/One)                           | Client project in early development                     | In development |
 
 ## Get started
